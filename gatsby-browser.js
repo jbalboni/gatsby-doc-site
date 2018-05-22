@@ -1,0 +1,3 @@
+exports.onClientEntry = () => {
+  window.dataLayer = [];
+};
